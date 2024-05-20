@@ -1,5 +1,5 @@
 ## Discord Botlist Bot Altyapısı!
-(made by Parsher)
+
 ## 📑 Bot Özellikleri
 
 - [x] Ayarlamalı
